@@ -1,0 +1,122 @@
+{
+  "trains": [
+    {
+      "id": 1,
+      "name": "Train1",
+      "departure": "Moscow",
+      "destination": "Kazan",
+      "seats": {
+        "SV": [
+          {
+            "id": 1,
+            "isFree": true,
+            "costs": 1000
+          },
+          {
+            "id": 2,
+            "isFree": true,
+            "costs": 1000
+          }
+        ],
+        "coupe": [
+          {
+            "id": 1,
+            "isFree": true,
+            "costs": 500
+          },
+          {
+            "id": 2,
+            "isFree": true,
+            "costs": 500
+          },
+          {
+            "id": 3,
+            "isFree": true,
+            "costs": 500
+          }
+        ],
+        "platzkart": [
+          {
+            "id": 1,
+            "isFree": true,
+            "costs": 300
+          },
+          {
+            "id": 2,
+            "isFree": true,
+            "costs": 300
+          },
+          {
+            "id": 3,
+            "isFree": true,
+            "costs": 300
+          },
+          {
+            "id": 4,
+            "isFree": true,
+            "costs": 300
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Train2",
+      "departure": "Moscow",
+      "destination": "Novosibirsk",
+      "seats": {
+        "SV": [
+          {
+            "id": 1,
+            "isFree": true,
+            "costs": 1000
+          },
+          {
+            "id": 2,
+            "isFree": true,
+            "costs": 1000
+          }
+        ],
+        "coupe": [
+          {
+            "id": 1,
+            "isFree": true,
+            "costs": 500
+          },
+          {
+            "id": 2,
+            "isFree": true,
+            "costs": 500
+          },
+          {
+            "id": 3,
+            "isFree": true,
+            "costs": 500
+          }
+        ],
+        "platzkart": [
+          {
+            "id": 1,
+            "isFree": true,
+            "costs": 300
+          },
+          {
+            "id": 2,
+            "isFree": true,
+            "costs": 300
+          },
+          {
+            "id": 3,
+            "isFree": true,
+            "costs": 300
+          },
+          {
+            "id": 4,
+            "isFree": true,
+            "costs": 300
+          }
+        ]
+      }
+    }
+  ]
+}
